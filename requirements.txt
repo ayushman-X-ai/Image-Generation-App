@@ -1,0 +1,33 @@
+# Core Dependencies
+customtkinter==5.2.2
+Pillow==10.4.0
+numpy==1.26.4
+
+# Hugging Face & Diffusers
+diffusers==0.30.3
+transformers==4.46.3
+huggingface-hub==0.26.2
+tokenizers==0.20.3
+
+# PyTorch (install separately with CUDA support)
+# Use: pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+# torch
+# torchvision
+# torchaudio
+
+# Utility Libraries
+requests==2.32.3
+tqdm==4.67.1
+PyYAML==6.0.2
+regex==2024.11.6
+filelock==3.16.1
+
+# Other Dependencies
+certifi==2024.8.30
+charset-normalizer==3.4.0
+idna==3.10
+urllib3==2.2.3
+colorama==0.4.6
+darkdetect==0.8.0
+packaging==24.2
+typing_extensions==4.12.2
